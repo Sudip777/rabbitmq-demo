@@ -11,9 +11,8 @@ This project demonstrates integrating RabbitMQ with a Spring Boot application, i
 ## Setup
 
 1. **Clone the repository:**
-
 ```bash
-git clone [https://github.com/sudip777/demorabbitmq.git](https://github.com/sudip777/demorabbitmq.git)
+git clone [https://github.com/sudip777/rabbitmq-demo.git](https://github.com/sudip777/rabbitmq-demo.git)
 ```
 
 2. **Configure RabbitMQ:**
